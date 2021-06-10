@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+.table {
+  text-align: center;
+  vertical-align: middle;
+}
+.heading {
+  vertical-align: middle;
+  margin-bottom: 20px;
+}
+.heading-btn {
+  margin-bottom: 8px;
+  margin-left: 20px;
+}
+thead {
+  background-color: green;
+}
